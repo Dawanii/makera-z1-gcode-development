@@ -1,3 +1,25 @@
+# makera-z1-gcode-development
+Repository dedicated to Makera Z1 G-code development, including probing cycle safety guidance.
+
+## Context / Why this repo exists
+
+I'm currently running a Linux PC (Linux Mint), and I haven't been able to get Makera Studio working under Wine without crashes.
+
+Because the 3D probing cycles are built into the Makera software, I cannot use them directly right now.
+
+Unless I write the G-code manually.
+
+This is why I decided to share probing routines here, along with any other features we can generate using G-code.
+
+## Project goals
+
+- Share practical probing routines for Makera Z1
+- Document safety-focused probing approaches
+- Collect reusable G-code-based features that don't depend on Makera Studio
+
+## Notes
+
+If you run Makera Studio successfully on Linux (Wine/Proton/VM), feel free to share your setup and tips.
 # Makera Z1 G-code Development
 
 ## ⚠️ Disclaimer / Safety Warning
