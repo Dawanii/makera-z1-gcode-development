@@ -27,7 +27,7 @@ If you run Makera Studio successfully on Linux (Wine/Proton/VM), feel free to sh
 To get all the supported command by the makera Z1 here is the link of the wiki
 https://wiki.makera.com/en/supported-codes
 
-For any other code wich is not listen in, I found them by looking at the Gcode terminal in the makera phone app.
+For any other code wich is not listed in, I found them by looking at the Gcode terminal in the makera phone app.
 
 ## ⚠️ Disclaimer / Safety Warning
 
